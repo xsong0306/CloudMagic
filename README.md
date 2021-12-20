@@ -1,2 +1,2 @@
 # CloudMagic
-music recommendation
+A music recommendation web application utilizing Spotify API
